@@ -4,7 +4,3 @@ def add(int a, int b){
 	println(a+b); 
 }
 
-def multiply(int a, int b){
-	println(a*b); 
-}
-
